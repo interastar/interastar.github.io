@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://interastar.com/</loc>
+    <loc>https://interastar.github.io/</loc>
   </url>
   
   <url>
-    <loc>https://interastar.com/author/</loc>
+    <loc>https://interastar.github.io/author/</loc>
   </url>
   
   <url>
-    <loc>https://interastar.com/categories/</loc>
+    <loc>https://interastar.github.io/categories/</loc>
   </url>
   
   <url>
-    <loc>https://interastar.com/tags/</loc>
+    <loc>https://interastar.github.io/tags/</loc>
   </url>
   
 </urlset>
