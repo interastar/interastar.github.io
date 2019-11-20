@@ -4,7 +4,7 @@ DefaultContentLanguage = "en"
 title = "*interastar"
 theme = "meghna-hugo"
 summaryLength = 10
-
+publishDir = "docs"
 
 [taxonomies]
   author = "author"
